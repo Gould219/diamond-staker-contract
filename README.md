@@ -18,5 +18,5 @@
 - https://www.figma.com/file/3rw03KSXNbusRPsTzpE3S1/Untitled-(Copy)
 
 ## Contract on BSCScan
-- Mainnet : []()
+- Mainnet : [0xBD591406C34b154a3520b2C8D16cD8122904BE64](https://bscscan.com/address/0xbd591406c34b154a3520b2c8d16cd8122904be64#code)
 - Testnet : [0x726eDED015f19AAA45a2982E57Df529050DfC885](https://testnet.bscscan.com/address/0x726eDED015f19AAA45a2982E57Df529050DfC885)
